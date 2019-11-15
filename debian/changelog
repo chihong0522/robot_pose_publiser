@@ -1,0 +1,59 @@
+ros-melodic-robot-pose-publisher (0.2.4-1bionic) bionic; urgency=high
+
+  * Update README.md
+  * Update package.xml
+  * fixed dox file
+  * fixed readme
+  * travis edit
+  * Contributors: David Kent, Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 18 Feb 2016 00:00:00 -0000
+
+ros-melodic-robot-pose-publisher (0.2.3-1bionic) bionic; urgency=high
+
+  * cleanup for release
+  * travis fix
+  * travis test
+  * gitignore cleanup
+  * Dry branch cleanup
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Wed, 02 Apr 2014 23:00:00 -0000
+
+ros-melodic-robot-pose-publisher (0.2.2-1bionic) bionic; urgency=high
+
+  * Merge pull request #3 <https://github.com/WPI-RAIL/robot_pose_publisher/issues/3> from jihoonl/groovy-devel
+    searches private node handle to get parameter
+  * searches private node handle to get parameter
+  * Merge pull request #2 <https://github.com/WPI-RAIL/robot_pose_publisher/issues/2> from jihoonl/groovy-devel
+    parameter setting. pose -> posestamped
+  * is_stamped param added
+  * parameter setting. pose -> posestamped
+  * Contributors: Jihoon Lee, Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Mon, 08 Apr 2013 23:00:00 -0000
+
+ros-melodic-robot-pose-publisher (0.2.1-1bionic) bionic; urgency=high
+
+  * Merge pull request #1 <https://github.com/WPI-RAIL/robot_pose_publisher/issues/1> from rctoris/groovy-devel
+    error messages removed to cleanup output
+  * 0.2.1 released
+  * error messages removed to cleanup output
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 24 Jan 2013 00:00:00 -0000
+
+ros-melodic-robot-pose-publisher (0.2.0-1bionic) bionic; urgency=high
+
+  * install added
+  * gitignore cleaned
+  * catkinized package
+  * .gitignore updated with eclipse settings
+  * .gitignore updated with eclipse settings
+  * new release build
+  * initial import
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 10 Jan 2013 00:00:00 -0000
+
+
